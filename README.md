@@ -1,1 +1,1 @@
-3rd Year Math of Computation Major at UCLAA
+3rd Year Math of Computation Major at UCLA
