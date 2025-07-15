@@ -1,1 +1,1 @@
-3rd Year Math of Computation Major at UCLA
+Recent Mathematics of Computation Graduate from UCLA
