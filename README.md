@@ -8,8 +8,6 @@ Outside the classroom, I’ve spent several years in operations and leadership r
 
 I’m looking for an entry-level data analyst or analytics-focused role in Portland, Seattle, or Denver (open to remote), where I can apply my math and coding background to real business problems.
 
-Technical skills: Python, SQL, R, Tableau, Excel, JavaScript/React, C++, Git, LaTeX, MATLAB
-
 #### Technical Skills: 
 * Python
 * SQL
