@@ -1,14 +1,17 @@
 #### Summary: 
 
-I’m a UCLA Mathematics of Computation graduate with a passion for solving complex technical problems at the intersection of math, data, and software. My academic background includes real analysis, linear algebra, differential equations, optimization, and machine learning, all of which I’ve applied through hands-on coursework and practical projects.
+I’m a UCLA Mathematics of Computation graduate (3.9 GPA) who likes turning messy data into clear answers, and who writes code to do it.
 
-I’m currently completing the Google Data Analytics Certificate, gaining practical experience with SQL, R, Tableau, and core data analysis concepts. I enjoy uncovering patterns in data and translating them into actionable insights, while bringing a mathematical perspective to everything I build, whether it’s improving a model’s accuracy, optimizing an algorithm, or designing efficient workflows.
+My coursework covered machine learning, optimization, probability and statistics, and algorithms, and I’ve paired it with practical tools: SQL, Python (Pandas, NumPy), R, and Tableau. I completed the Google Data Analytics Certificate in 2025 and am building public projects on real datasets, which I’m happy to share.
 
-I’m especially drawn to roles that combine deep analytical thinking with practical engineering. I thrive in environments where I can apply both theory and code to build intelligent, data-driven systems. 
+Outside the classroom, I’ve spent several years in operations and leadership roles: managing a 30+ person pool staff while in high school, tracking inventory and shipments in Oracle NetSuite for ASUCLA, and most recently leading in a high-volume retail environment in Yosemite National Park. Those jobs taught me to work accurately under pressure, communicate clearly with all kinds of people, and keep systems running when things get busy.
+
+I’m looking for an entry-level data analyst or analytics-focused role in Portland, Seattle, or Denver (open to remote), where I can apply my math and coding background to real business problems.
+
+Technical skills: Python, SQL, R, Tableau, Excel, JavaScript/React, C++, Git, LaTeX, MATLAB
 
 #### Technical Skills: 
 * Python
-* R
 * SQL
 * Tableau
 * C++
